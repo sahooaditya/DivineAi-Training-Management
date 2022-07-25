@@ -1064,7 +1064,7 @@
   text-shadow: 0px 0 0 rgba(0,0,0,0);
   background-image: linear-gradient(#f7b496, #4c7397);
   box-shadow: 0px -4px 15px 0 rgba(0,0,0,0.2);
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17) ;
   margin: 14px auto 0;
 }
 
@@ -1091,7 +1091,7 @@
   text-shadow: 0px 0 0 rgba(0,0,0,0);
   background-image: linear-gradient(#f7b496, #4c7397);
   box-shadow: 0px -4px 15px 0 rgba(0,0,0,0.2);
-  color: rgb(255, 255, 255) !important;
+  color: rgb(255, 255, 255) ;
   margin: 14px auto 0;
 }
 
@@ -1118,7 +1118,7 @@
   text-shadow: 0px 0 0 rgba(0,0,0,0);
   background-image: linear-gradient(#f7b496, #4c7397);
   box-shadow: 0px -4px 15px 0 rgba(0,0,0,0.2);
-  color: rgb(255, 255, 255) !important;
+  color: rgb(255, 255, 255) ;
   margin: 14px auto 0;
 }
 
@@ -1145,7 +1145,7 @@
   text-shadow: 0px 0 0 rgba(0,0,0,0);
   background-image: linear-gradient(#f7b496, #4c7397);
   box-shadow: 0px -4px 15px 0 rgba(0,0,0,0.2);
-  color: rgb(255, 255, 255) !important;
+  color: rgb(255, 255, 255) ;
   margin: 14px auto 0;
 }
 
@@ -1198,7 +1198,7 @@
   text-shadow: 0px 0 0 rgba(0,0,0,0);
   background-image: linear-gradient(#f7b496, #4c7397);
   box-shadow: 0px -4px 15px 0 rgba(0,0,0,0.2);
-  color: rgb(255, 255, 255) !important;
+  color: rgb(255, 255, 255) ;
   margin: 14px auto 0;
 }
 
@@ -1225,7 +1225,7 @@
   text-shadow: 0px 0 0 rgba(0,0,0,0);
   background-image: linear-gradient(#f7b496, #4c7397);
   box-shadow: 0px -4px 15px 0 rgba(0,0,0,0.2);
-  color: rgb(255, 255, 255) !important;
+  color: rgb(255, 255, 255) ;
   margin: 14px auto 0;
 }
 
@@ -1252,7 +1252,7 @@
   text-shadow: 0px 0 0 rgba(0,0,0,0);
   background-image: linear-gradient(#f7b496, #4c7397);
   box-shadow: 0px -4px 15px 0 rgba(0,0,0,0.2);
-  color: rgb(255, 255, 255) !important;
+  color: rgb(255, 255, 255) ;
   margin: 14px auto 0;
 }
 
@@ -2110,7 +2110,7 @@
 
 .u-section-5 .u-icon-2 {
   background-image: none;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17) ;
   font-size: 0.875rem;
 }
 
@@ -2147,7 +2147,7 @@
 
 .u-section-5 .u-icon-4 {
   background-image: none;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17) ;
 }
 
 .u-section-5 .u-list-item-3 {
@@ -2183,7 +2183,7 @@
 
 .u-section-5 .u-icon-6 {
   background-image: none;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17) ;
 }
 
 .u-section-5 .u-list-item-4 {
@@ -2219,7 +2219,7 @@
 
 .u-section-5 .u-icon-8 {
   background-image: none;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17) ;
 }
 
 .u-section-5 .u-list-item-5 {
@@ -2253,7 +2253,7 @@
 }
 
 .u-section-5 .u-icon-10 {
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17) ;
 }
 
 .u-section-5 .u-list-item-6 {
@@ -2289,7 +2289,7 @@
 
 .u-section-5 .u-icon-12 {
   background-image: none;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17) ;
 }
 
 @media (max-width: 1199px) {
@@ -2302,7 +2302,7 @@
   }
 
   .u-section-5 .u-icon-1 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
     margin-top: 0;
   }
 
@@ -2311,7 +2311,7 @@
   }
 
   .u-section-5 .u-icon-3 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
     margin-top: 0;
   }
 
@@ -2320,7 +2320,7 @@
   }
 
   .u-section-5 .u-icon-5 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
     margin-top: 0;
   }
 
@@ -2329,7 +2329,7 @@
   }
 
   .u-section-5 .u-icon-7 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
     margin-top: 0;
   }
 
@@ -2338,7 +2338,7 @@
   }
 
   .u-section-5 .u-icon-9 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
     margin-top: 0;
   }
 
@@ -2347,7 +2347,7 @@
   }
 
   .u-section-5 .u-icon-11 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
     margin-top: 0;
   }
 
@@ -2627,7 +2627,7 @@
   }
 
   .u-section-6 .u-icon-1 {
-    color: rgb(128, 128, 128) !important;
+    color: rgb(128, 128, 128) ;
   }
 
   .u-section-6 .u-text-3 {
@@ -2635,7 +2635,7 @@
   }
 
   .u-section-6 .u-icon-2 {
-    color: rgb(128, 128, 128) !important;
+    color: rgb(128, 128, 128) ;
   }
 
   .u-section-6 .u-text-5 {
@@ -2643,7 +2643,7 @@
   }
 
   .u-section-6 .u-icon-3 {
-    color: rgb(128, 128, 128) !important;
+    color: rgb(128, 128, 128) ;
   }
 
   .u-section-6 .u-text-7 {
@@ -2651,7 +2651,7 @@
   }
 
   .u-section-6 .u-icon-4 {
-    color: rgb(128, 128, 128) !important;
+    color: rgb(128, 128, 128) ;
   }
 
   .u-section-6 .u-text-9 {
@@ -3236,7 +3236,7 @@
   height: 120px;
   width: 120px;
   background-image: none;
-  color: rgb(0, 0, 0) !important;
+  color: rgb(0, 0, 0) ;
   margin: 0 auto;
 }
 
@@ -3263,7 +3263,7 @@
   height: 120px;
   width: 120px;
   background-image: none;
-  color: rgb(0, 0, 0) !important;
+  color: rgb(0, 0, 0) ;
   margin: 0 auto;
 }
 
@@ -3290,7 +3290,7 @@
   height: 120px;
   width: 120px;
   background-image: none;
-  color: rgb(0, 0, 0) !important;
+  color: rgb(0, 0, 0) ;
   margin: 0 auto;
 }
 
@@ -3317,7 +3317,7 @@
   height: 120px;
   width: 120px;
   background-image: none;
-  color: rgb(0, 0, 0) !important;
+  color: rgb(0, 0, 0) ;
   margin: 0 auto;
 }
 
@@ -3357,27 +3357,27 @@
   }
 
   .u-section-8 .u-icon-1 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
   }
 
   .u-section-8 .u-icon-2 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
   }
 
   .u-section-8 .u-icon-3 {
-    color: rgb(0, 0, 0) !important;
+    color: rgb(0, 0, 0) ;
   }
 
   .u-section-8 .u-icon-4 {
-    color: rgb(0, 0, 0) !important;
+    color: rgb(0, 0, 0) ;
   }
 
   .u-section-8 .u-icon-5 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
   }
 
   .u-section-8 .u-icon-6 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
   }
 }
 
@@ -3391,11 +3391,11 @@
   }
 
   .u-section-8 .u-icon-3 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
   }
 
   .u-section-8 .u-icon-4 {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255) ;
   }
 }
 
@@ -3475,7 +3475,7 @@
 }
 
 .u-section-9 .u-icon-2 {
-  color: rgb(236, 41, 22) !important;
+  color: rgb(236, 41, 22) ;
 }
 
 .u-section-9 .u-text-2 {

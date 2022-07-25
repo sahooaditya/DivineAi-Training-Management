@@ -7,14 +7,10 @@
   window.addEventListener("load",function(){
  
    showPopup();
-   // setTimeout(function(){
-   //   loginPopup.classList.add("show");
-   // },5000)
-
   })
 
   function showPopup(){
-        const timeLimit = 2 // seconds;
+        const timeLimit = 2
         let i=0;
         const timer = setInterval(function(){
          i++;
