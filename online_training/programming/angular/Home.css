@@ -41,7 +41,7 @@
 .u-section-1 .u-icon-1 {
   width: 19px;
   height: 19px;
-  color: rgb(239, 206, 74) !important;
+  color: rgb(239, 206, 74);
   margin: -31px auto 0 38px;
 }
 
@@ -395,7 +395,7 @@
   width: 96px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(159, 217, 221) !important;
+  color: rgb(159, 217, 221);
   margin: 0 auto;
 }
 
@@ -417,7 +417,7 @@
   width: 96px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(0, 0, 0) !important;
+  color: rgb(0, 0, 0);
   margin: 0 auto;
 }
 
@@ -460,7 +460,7 @@
   width: 96px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(0, 0, 0) !important;
+  color: rgb(0, 0, 0);
   margin: 0 auto;
 }
 
@@ -482,7 +482,7 @@
   width: 96px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(0, 0, 0) !important;
+  color: rgb(0, 0, 0);
   margin: 0 auto;
 }
 
@@ -504,7 +504,7 @@
   width: 96px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17);
   margin: 0 auto;
 }
 
@@ -526,7 +526,7 @@
   width: 96px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17);
   margin: 0 auto;
 }
 
@@ -548,7 +548,7 @@
   width: 96px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(0, 0, 0) !important;
+  color: rgb(0, 0, 0);
   margin: 0 auto;
 }
 
@@ -570,7 +570,7 @@
   width: 96px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(0, 0, 0) !important;
+  color: rgb(0, 0, 0);
   margin: 0 auto;
 }
 
@@ -1424,7 +1424,7 @@
   width: 65px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17);
   margin: 0 auto 0 0;
 }
 
@@ -1459,7 +1459,7 @@
   width: 65px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17);
   margin: 0 auto 0 0;
 }
 
@@ -1495,7 +1495,7 @@
   width: 65px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17);
   margin: 0 auto 0 0;
 }
 
@@ -1531,7 +1531,7 @@
   width: 65px;
   background-image: none;
   animation-duration: 1000ms;
-  color: rgb(17, 17, 17) !important;
+  color: rgb(17, 17, 17);
   margin: 0 auto 0 0;
 }
 
